@@ -1,0 +1,110 @@
+[
+  {
+    "type": "human",
+    "data": {
+      "content": "1+1 ?",
+      "additional_kwargs": {},
+      "type": "human",
+      "example": false
+    }
+  },
+  {
+    "type": "ai",
+    "data": {
+      "content": "1+1 equals 2.",
+      "additional_kwargs": {},
+      "type": "ai",
+      "example": false
+    }
+  },
+  {
+    "type": "human",
+    "data": {
+      "content": "add 3 mroe",
+      "additional_kwargs": {},
+      "type": "human",
+      "example": false
+    }
+  },
+  {
+    "type": "ai",
+    "data": {
+      "content": "Adding 3 more to 2, we get 5.",
+      "additional_kwargs": {},
+      "type": "ai",
+      "example": false
+    }
+  },
+  {
+    "type": "human",
+    "data": {
+      "content": "subtract 10",
+      "additional_kwargs": {},
+      "type": "human",
+      "example": false
+    }
+  },
+  {
+    "type": "ai",
+    "data": {
+      "content": "Subtracting 10 from 5, we get -5.",
+      "additional_kwargs": {},
+      "type": "ai",
+      "example": false
+    }
+  },
+  {
+    "type": "human",
+    "data": {
+      "content": "add 100",
+      "additional_kwargs": {},
+      "type": "human",
+      "example": false
+    }
+  },
+  {
+    "type": "ai",
+    "data": {
+      "content": "Adding 100 to -5, we get 95.",
+      "additional_kwargs": {},
+      "type": "ai",
+      "example": false
+    }
+  },
+  {
+    "type": "human",
+    "data": {
+      "content": "minus 50",
+      "additional_kwargs": {},
+      "type": "human",
+      "example": false
+    }
+  },
+  {
+    "type": "ai",
+    "data": {
+      "content": "Subtracting 50 from 95, we get 45.",
+      "additional_kwargs": {},
+      "type": "ai",
+      "example": false
+    }
+  },
+  {
+    "type": "human",
+    "data": {
+      "content": "divide by 9",
+      "additional_kwargs": {},
+      "type": "human",
+      "example": false
+    }
+  },
+  {
+    "type": "ai",
+    "data": {
+      "content": "Dividing 45 by 9, we get 5.",
+      "additional_kwargs": {},
+      "type": "ai",
+      "example": false
+    }
+  }
+]
